@@ -24,7 +24,7 @@ El proyecto permite organizar la información de los libros, registrar usuarios 
 ## Instalación
 
 ```bash
-git clone https://github.com/TU-USUARIO/laboratorio-readme.git
+git clone https://github.com/carlostolentino-svg/Sistema-de-bliblioteca.git
 cd laboratorio-readme
 npm install
 npm start
